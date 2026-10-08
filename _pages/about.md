@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am **Junteng Liu**, a first-year Ph.D. candidate at the **HKUST NLP Group** in the Department of Computer Science, **Hong Kong University of Science and Technology (HKUST)**. I am advised by **Professor Junxian He**, who also advised me during my undergraduate studies at Shanghai Jiao Tong University.
+I am **Junteng Liu**, a first-year Ph.D. candidate at the **HKUST NLP Group**, Hong Kong University of Science and Technology (HKUST). I am advised by **Professor Junxian He**, who also advised me during my undergraduate studies at Shanghai Jiao Tong University.
 
 My research focuses on **natural language processing (NLP)** and **machine learning (ML)**.
 
