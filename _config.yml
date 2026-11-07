@@ -12,9 +12,9 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Junteng Liu's academic portfolio"
 url                      : https://spaldingpitzenur8067.github.io # The base hostname & protocol for your site
-baseurl                  : "/LJT-Homepage" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/LJT-Homepage" # the subpath of your site
 repository               : "spaldingpitzenur8067/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -83,7 +83,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Preprints'
+    title: 'arXiv Publications'
   conferences:
     title: 'Conference Papers'
 
@@ -93,7 +93,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+talkmap_link             : false
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
+  hide                   : true     # hide the RSS feed link in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -140,7 +140,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # No social media image provided
-og_description           :  # Social media default site image description
+og_description           :
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
