@@ -43,17 +43,18 @@ Publications
 ======
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.  
-   *arXiv*, 2025. **(First author)**
+   *arXiv*, 2025. **(First author)**  
+   Code: [GitHub repository](https://github.com/MiniMax-AI/SynLogic)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.  
    *arXiv*, 2025. **(First author)**  
-   Code repository: Vision4Chart
+   Code: [Vision4Chart](https://github.com/hkust-nlp/Vision4Chart)
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
    **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He.  
    *EMNLP 2024*, 2024. **(First author)**  
-   Code repository: Universal_Truthfulness_Hyperplane
+   Code: [Universal_Truthfulness_Hyperplane](https://github.com/hkust-nlp/Universal_Truthfulness_Hyperplane)
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
    Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.  
